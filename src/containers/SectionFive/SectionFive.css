@@ -1,0 +1,40 @@
+.five{
+    margin-top: 330px;
+    background-color: rgb(0, 0, 0);
+    height: 150vh;
+}
+
+.card-container {
+  display: flex;
+  gap: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+.card-block {
+  overflow-x: scroll;
+  padding: 24px;
+  width: 91%;
+  scroll-snap-type: x mandatory;
+  border-radius: 8px;
+  gap: 12px;
+}
+.card-block::-webkit-scrollbar {
+  width: 0;
+}
+.card-container .card-block {
+  flex: 0 0 100%;
+  padding: 24px;
+  border-radius: 8px;
+  scroll-snap-align: start;
+}
+
+@media (max-width:800px){
+    .five{
+      background-color: rgb(0, 0, 0);
+      margin-top: 500px;
+      height: 170vh;
+      width: 245vh;
+    }
+}

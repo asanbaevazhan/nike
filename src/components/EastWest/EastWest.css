@@ -1,0 +1,44 @@
+.eastwest-block {
+	display: flex;
+	flex-direction: row;
+}
+
+.eastwest-block:not(:last-child) {
+	margin-right: 33px;
+}
+
+.east-west-img {
+	width: 80px;
+	height: 80px;
+    overflow: hidden;
+    transition-duration: 0.8s;
+    transition-property: transform;
+}
+.east-west-img:hover {
+    transform: rotate(360deg);
+}
+
+@media (max-width:800px) {
+	.eastwest-block {
+		display: flex;
+		flex-direction: column;
+	}
+	
+	.eastwest-block:not(:last-child) {
+		margin-right: 10px;
+	}
+	
+	.east-west-img {
+		width: 100px;
+		height: 100px;
+		overflow: hidden;
+		transition-duration: 0.8s;
+		transition-property: transform;
+	}
+	.east-west-img:hover {
+		transform: rotate(360deg);
+	}
+}
+
+
+  

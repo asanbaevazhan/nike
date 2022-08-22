@@ -1,0 +1,177 @@
+
+.headline-two-title1{
+    color: rgb(0, 0, 0);
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    border-bottom: rgb(0, 0, 0) 3px solid;
+    margin-left: 120px;
+    margin-right: 130px;
+    padding-bottom: 10px;
+}
+
+.one-store{
+    margin-top: -10px;
+    margin-right: 130px; 
+    margin-left: 120px;
+    border-bottom: rgb(0, 0, 0) 3px solid;
+    padding-bottom: 10px;
+}
+.headline-two-title2 {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #0949EF;
+    padding-right: 20px;
+}
+
+.headline-two-title3 {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.every-team{
+    margin-top: 0px;
+    margin-right: 130px; 
+    margin-left: 120px;
+    border-bottom: rgb(0, 0, 0) 3px solid;
+    padding-bottom: 10px;
+}
+
+.headline-two-title4{
+    margin-top: 10px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #FB0223;
+    padding-right: 20px;
+}
+
+.headline-two-title5{
+    margin-top: 10px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.headline-two-title6{
+    width: 454px;
+    height: 46px;
+    margin-left: 120px;
+    margin-top: 10px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+@media (max-width:800px){
+    .headline-two-title1{
+        color: rgb(0, 0, 0);
+        font-family: 'Orbitron';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 20px;
+        text-transform: uppercase;
+        border-bottom: rgb(0, 0, 0) 3px solid;
+        margin-left: 120px;
+        margin-right: 60px;
+        padding-bottom: 10px;
+    }
+    
+    .one-store{
+        margin-top: -10px;
+        margin-right: 60px;
+        margin-left: 120px;
+        border-bottom: rgb(0, 0, 0) 3px solid;
+        padding-bottom: 10px;
+    }
+    .headline-two-title2 {
+        font-family: 'Orbitron';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 85px;
+        line-height: 82px;
+        text-transform: uppercase;
+        color: #0949EF;
+        padding-right: 20px;
+    }
+    
+    .headline-two-title3 {
+        font-family: 'Orbitron';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 85px;
+        line-height: 82px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    
+    .every-team{
+        margin-top: 10px;
+        margin-right: 60px;
+        margin-left: 120px;
+        border-bottom: rgb(0, 0, 0) 3px solid;
+        padding-bottom: 10px;
+    }
+    
+    .headline-two-title4{
+        margin-top: 10px;
+        font-family: 'Orbitron';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 85px;
+        line-height: 82px;
+        text-transform: uppercase;
+        color: #FB0223;
+        padding-right: 20px;
+    }
+    
+    .headline-two-title5{
+        margin-top: 20px;
+        font-family: 'Orbitron';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 85px;
+        line-height: 82px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    
+    .headline-two-title6{
+        width: 454px;
+        height: 46px;
+        margin-left: 120px;
+        margin-top: 10px;
+        font-family: 'Orbitron';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 23px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    
+}

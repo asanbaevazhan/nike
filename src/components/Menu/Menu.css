@@ -1,0 +1,22 @@
+.menu a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    padding-right: 40px;
+    color: black;
+  }
+  
+  .menu{
+    padding-top: 16px;
+    padding-left: 50px;
+  }
+
+@media (max-width:800px){
+    .menu a{
+      padding-right: 40px;
+    }
+    
+    .menu{
+      padding-top: 16px;
+      padding-left: 300px;
+    }
+}

@@ -1,0 +1,71 @@
+.six-title1{
+    color: rgb(0, 0, 0);
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    border-bottom: rgb(0, 0, 0) 3px solid;
+    margin-left: 120px;
+    margin-right: 130px;
+    padding-bottom: 10px;
+}
+
+.six-title2 {
+    margin-top: -10px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #77D131;
+    border-bottom: rgb(0, 0, 0) 3px solid;
+    margin-left: 120px;
+    margin-right: 130px;      
+    padding-bottom: 10px;
+}
+
+.six-title3{
+    margin-top: -50px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #000000;
+    border-bottom: rgb(0, 0, 0) 3px solid;
+    margin-left: 120px;
+    margin-right: 130px;
+    padding-bottom: 10px;
+}
+
+.six-title4{
+    width: 1254px;
+    height: 46px;
+    margin-left: 120px;
+    margin-top: -44px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.six-title5{
+    width: 1254px;
+    height: 46px;
+    margin-left: 120px;
+    margin-top: -40px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #000000;
+}

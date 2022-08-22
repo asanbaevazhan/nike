@@ -1,0 +1,92 @@
+.headline-three-title1{
+    color: rgb(255, 255, 255);
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    border-bottom: rgb(255, 255, 255) 3px solid;
+    margin-left: 120px;
+    margin-right: 130px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.kobe-bryant{
+    margin-top: -10px;
+    margin-right: 130px; 
+    margin-left: 120px;
+    border-bottom: rgb(255, 255, 255) 3px solid;
+    padding-bottom: 10px;
+}
+.headline-three-title2 {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #FCBF05;
+    padding-right: 20px;
+}
+
+.headline-three-title3 {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #6021DB;
+}
+
+.authentic{
+    margin-top: 0px;
+    margin-right: 130px; 
+    margin-left: 120px;
+    border-bottom: rgb(255, 255, 255) 3px solid;
+    padding-bottom: 10px;
+}
+
+.headline-three-title4{
+    margin-top: 10px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-right: 20px;
+}
+
+.headline-three-title5{
+    width: 1200px;
+    height: 46px;
+    margin-left: 120px;
+    margin-top: 10px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.headline-three-title6{
+    width: 1200px;
+    height: 46px;
+    margin-left: 120px;
+    margin-top: -40px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+    

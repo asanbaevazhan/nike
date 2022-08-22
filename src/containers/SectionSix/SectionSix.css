@@ -1,0 +1,62 @@
+.six{
+    margin-top: 50px;
+    height: 130vh;
+}
+
+.nike{
+    margin-left: 119px;
+}
+.nike img{
+    
+    width: 1270px;
+    height: 389px;
+}
+.txt{
+    margin-left: 119px;
+}
+
+.club{
+    width: 146px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.wo{
+    width: 373px;
+    height: 22px;
+    margin-top: -15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+    color: #000000;
+    opacity: 0.5;
+}
+
+.line6-footer{
+    padding-top: 50px;
+    height: 0vh;
+    margin-left: 119px;
+}
+
+.line6-footer span {
+    
+    width: 64px;
+    height: 22px;
+
+    font-family: 'Roboto' sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+    color: #000000;
+  }
+.line6-footer img {
+    padding-left: 6px;
+}

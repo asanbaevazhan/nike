@@ -1,0 +1,87 @@
+
+.dot p{
+    position: relative;
+    width: 400px;
+    height: 20px;
+    left: 120px;
+    top: 70px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #000000; 
+}
+
+.dot1{
+    position: relative;
+    width: 4px;
+    height: 4px;
+    left: 0px;
+    top: -5px;
+    
+    background: #000000;
+}
+
+.dot2{
+    position: relative;
+    width: 4px;
+    height: 4px;
+    left: 0px;
+    top: -5px;
+
+    background: #000000;
+}
+
+.headline h1{
+    position: relative;
+    width: 1280px;
+    height: 163px;
+    left: 120px;
+    top: 10px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 128px;
+    line-height: 163px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #000000;
+    border-bottom: #000000 3.5px solid;
+    border-top: #000000 3.5px solid;
+}
+
+.nba-team p{
+    position: relative;
+    width: 560px;
+    height: 52px;
+    left: 840px;
+    top: -50px;
+    border-bottom: #000000 3.5px solid;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding-bottom: 70px;
+    color: #000000;
+}
+
+.nba{
+    color: #0949EF;
+}
+.team{
+    color: #FB0223;
+}
+
+.hero-pic img{
+    position:relative;
+    width: 1280px;
+    height: 680px;
+    left: 120px;
+    top: -40px;
+
+}

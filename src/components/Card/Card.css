@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+.card {
+  display: flex;
+  color: #000;
+  padding-left: 90px;
+}
+.card-element {
+  display: flex;
+  flex-direction: column;
+}
+.card__image{
+  display: flex;
+  align-items: center;
+  width: 380px;
+  height: 380px;
+  border-radius: none;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+}
+.card-about {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.card__desc {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+.card__title {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 22px;
+  color: #FFFFFF;
+  opacity: 0.5;
+}
+.card__price {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 22px;
+  color: #FFFFFF;
+}

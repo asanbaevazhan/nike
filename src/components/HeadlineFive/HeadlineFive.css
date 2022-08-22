@@ -1,0 +1,90 @@
+.headline-five-title1{
+    color: rgb(255, 255, 255);
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    border-bottom: rgb(255, 255, 255) 3px solid;
+    margin-left: 120px;
+    margin-right: 130px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.team-usa{
+    margin-top: 10px;
+    margin-right: 130px; 
+    margin-left: 120px;
+    border-bottom: rgb(255, 255, 255) 3px solid;
+    padding-bottom: 10px;
+}
+.headline-five-title2 {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #0949EF;
+    padding-right: 20px;
+}
+
+.headline-five-title3 {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #FB0223;
+}
+
+.authentic-edition{
+    margin-top: 10px;
+    margin-right: 130px; 
+    margin-left: 120px;
+    border-bottom: rgb(255, 255, 255) 3px solid;
+    padding-bottom: 10px;
+}
+
+.headline-five-title4{
+    margin-top: 10px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-right: 20px;
+}
+
+.headline-five-title5{
+    width: 1200px;
+    height: 46px;
+    margin-left: 120px;
+    margin-top: 20px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.headline-five-title6{
+    width: 1200px;
+    height: 46px;
+    margin-left: 120px;
+    margin-top: -40px;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
